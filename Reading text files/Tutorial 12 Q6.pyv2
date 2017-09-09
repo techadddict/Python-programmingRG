@@ -1,0 +1,49 @@
+#Read two country data files, worldpop.txt and worldarea.txt. These files can be found on
+#Write a file world_pop_density.txt that contains country names and population densities with the
+#country names aligned left and the numbers aligned right.
+
+popData =open ( 'worldpop.txt','r
+areaData =open ( 'worldarea.txt','r')
+popLines= popData.readlines()
+areaLines = areaData.readlines()
+worldPopDen = open ( 'worldPopDensity.txt','w')
+
+def main():
+    popList=extractNum(popLines)
+
+    for line in popList:   
+        print(line)  
+
+    
+def extractNum(file):
+    numberL=[]
+    file=popData =open ( 'worldpop.txt','r')
+    words=file.readlines()
+    for line in words:
+        number = line.rstrip().rsplit(', ',1)
+        numberL.append(number)
+    return numberL
+
+couList=[]
+ 
+for line in popLines:
+     country= (''.join(list(filter(str.isidentifier, line))))
+     couList.append(country)
+
+     
+
+
+
+#for i in range(len(popList)):
+    
+#     print(popList[i])
+#     popDen= (popList[i]) (areaList[i])
+#     worldPopDen. write( country + '    ' + str(popDen))
+    
+
+#worldPopDen.close()
+#file = open ( 'worldPopDensity.txt','r')
+#popD= file.readlines()
+#for line in popD:
+#    print(line)
+main()

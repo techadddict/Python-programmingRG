@@ -1,0 +1,27 @@
+#1. Write a function that communicates with the user to obtain a list
+#as an input. The function should prompt the user to enter the number of elements
+#and then to obtain the list; then the function should return the obtained 
+#list.
+
+def main():
+    check = addElementstoList()
+    
+
+def addElementstoList():
+    myList = []
+    numOfElements = int(input('Enter the number of elements to add to list'))
+    for i in range(0,numOfElements):
+        element= int (input('Enter a number'))
+        myList.append(element)
+
+    for i in range(len(myList)):
+
+        print(myList[i])
+    
+
+#Write a program that uses the above function to obtain a list from the user and
+#prints the list. Test the import statement by putting the function to a separate
+#file and importing the file in the main program. 
+
+
+main()

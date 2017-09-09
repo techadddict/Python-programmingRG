@@ -1,0 +1,147 @@
+Afghanistan                                       50.56
+Akrotiri                                         127.64
+Albania                                          125.91
+Algeria                                           14.18
+American Samoa                                   288.92
+Andorra                                          154.73
+Angola                                            10.05
+Anguilla                                         138.31
+Antigua and Barbuda                              157.66
+Argentina                                         14.70
+Armenia                                           99.62
+Aruba                                            526.12
+Australia                                          2.68
+Austria                                           97.84
+Azerbaijan                                        94.43
+Bahamas, The                                      22.06
+Bahrain                                         1080.16
+Bangladesh                                      1066.30
+Barbados                                         654.22
+Belarus                                           46.66
+Belgium                                          340.80
+Belize                                            13.12
+Benin                                             73.65
+Bermuda                                         1255.40
+Bhutan                                            14.52
+Bolivia                                            8.42
+Bosnia and Herzegovina                            89.78
+Botswana                                           3.07
+Brazil                                            22.55
+British Virgin Islands                           156.89
+Brunei                                            66.10
+Bulgaria                                          65.48
+Burkina Faso                                      55.67
+Burma                                             70.39
+Burundi                                          312.29
+Cambodia                                          78.67
+Cameroon                                          38.84
+Canada                                             3.33
+Cape Verde                                       105.88
+Cayman Islands                                   182.68
+Central African Republic                           7.12
+Chad                                               7.87
+Chile                                             21.74
+China                                            138.59
+Christmas Island                                  10.39
+Cocos (Keeling) Islands                           42.57
+Colombia                                          39.52
+Comoros                                          337.22
+Congo, Democratic Republic of the                 28.36
+Congo, Republic of the                            11.41
+Cook Islands                                      92.50
+Costa Rica                                        82.11
+Cote d'Ivoire                                     56.98
+Croatia                                           79.44
+Cuba                                             103.05
+Cyprus                                            85.69
+Czech Republic                                   129.60
+Denmark                                          127.27
+Dhekelia                                         119.85
+Djibouti                                          22.01
+Dominica                                          96.17
+Dominican Republic                               195.10
+Ecuador                                           49.12
+Egypt                                             81.60
+El Salvador                                      335.86
+Equatorial Guinea                                 21.98
+Eritrea                                           41.45
+Estonia                                           28.91
+Ethiopia                                          69.43
+European Union                                   113.54
+Falkland Islands (Islas Malvinas)                  0.26
+Faroe Islands                                     34.79
+Fiji                                              51.00
+Finland                                           15.51
+France                                            99.56
+French Polynesia                                  67.92
+Gabon                                              5.55
+Gambia, The                                      153.58
+Gaza Strip                                      4270.19
+Georgia                                           66.44
+Germany                                          230.71
+Ghana                                             97.65
+Gibraltar                                       4000.29
+Greece                                            81.27
+Greenland                                          0.03
+Grenada                                          262.62
+Guam                                             325.10
+Guatemala                                        119.41
+Guernsey                                         842.64
+Guinea                                            41.53
+Guinea-Bissau                                     41.62
+Guyana                                             3.59
+Haiti                                            321.61
+Holy See (Vatican City)                            0.01
+Honduras                                        6995.72
+Hong Kong                                         75.44
+Hungary                                           96.42
+Iceland                                            0.09
+India                                            598.09
+Indonesia                                        144.12
+Iran                                             150.72
+Iraq                                             401.55
+Ireland                                         7265.94
+Isle of Man                                        3.67
+Israel                                            23.61
+Italy                                           5290.27
+Jamaica                                            7.42
+Japan                                        1097313.96
+Jersey                                             0.99
+Jordan                                             2.28
+Kazakhstan                                        26.33
+Kenya                                          46798.81
+Kiribati                                           0.92
+Korea, North                                     238.41
+Korea, South                                    4522.17
+Kosovo                                           119.34
+Kuwait                                            13.08
+Kyrgyzstan                                        22.62
+Laos                                             103.39
+Latvia                                           215.91
+Lebanon                                          130.85
+Lesotho                                           19.11
+Liberia                                            1.90
+Libya                                          38584.87
+Liechtenstein                                      0.53
+Lithuania                                       1378.66
+Luxembourg                                     17357.36
+Macau                                             18.19
+Macedonia                                          3.51
+Madagascar                                       169.16
+Malawi                                            42.25
+Malaysia                                       84247.11
+Maldives                                           0.31
+Mali                                           39000.09
+Malta                                           2229.46
+Marshall Islands                                   0.06
+Mauritania                                      1649.48
+Mauritius                                       3406.92
+Mayotte                                            0.11
+Mexico                                        156631.62
+Micronesia, Federated States of                    3.18
+Moldova                                      2162225.00
+Monaco                                             0.02
+Mongolia                                         213.61
+Montenegro                                      6648.79
+Montserrat                                         0.02
+Morocco                                           42.84
