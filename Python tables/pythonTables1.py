@@ -25,10 +25,38 @@ def transposeTable(A):
     B=[]
     for i in range(len(A)):
         T=[]
-        for j in range(len(A)):
+        for j in range(len(A[0])):
             T.append(A[j][i])
         B.append(T)
     return B
 
 main()
+
+
+#or 
+
+def main():
+
+    A= [
+        [1,2,3,4],
+        [22,15,33,45],
+        [0,0,1,1],
+        [1,1,2,2]
+       ]
+    result =transposeTable(A)
+    print(result)
+    
+def transposeTable(A):
+    B=[]
+    for j in range(len(A[0])):
+        T=[]
+       
+        for i in range(len(A)):
+            T.append(A[i][j])
+        B.append(T)
+    return B
+
+main()
+    
+
     
